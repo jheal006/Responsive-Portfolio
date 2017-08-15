@@ -309,6 +309,11 @@ input[type=submit] {
 
   #masthead {
     padding: 0;
+    position: static;
+  }
+
+  #main-container {
+    padding: 0;
   }
 
   #logo {
